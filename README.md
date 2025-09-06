@@ -1,6 +1,6 @@
 # amharic-asr-ipynb
 
-This repo implements a [DeepSpeech2](https://arxiv.org/pdf/1512.02595)-like speech recognition model and trains it on an [Amharic dataset](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/AMHARIC). This is meant to host the code discussed in this [video]().
+This repo implements a [DeepSpeech2](https://arxiv.org/pdf/1512.02595)-like speech recognition model and trains it on an [Amharic dataset](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/AMHARIC). This is meant to host the code discussed in this [video](https://youtu.be/qlxv1CBatiw).
 
 We stress that the main purpose of this model is as a teaching resource as the implementation is more beginner-friendly than the current state-of-the-art (SOTA). Specifically, we find that the final model has a character error rate ([CER](https://galileo.ai/blog/character-error-rate-cer-metric)) of ~23% which is worse than the [SOTA trained on the same dataset](https://huggingface.co/agkphysics/wav2vec2-large-xlsr-53-amharic) which achieved a CER of ~7%. 
 
