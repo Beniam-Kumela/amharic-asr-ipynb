@@ -9,7 +9,7 @@ The model only takes ~20 epochs (which totals to 2-3 hrs of training time on Goo
 <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/50c79451-93b0-4945-aefe-c86ec76d0381" />
 
 
-In case you are not able to train the model, we have included the checkpoint and loss curve info in the repo as well. Some predictions from the model are shown below.
+In case you are not able to train the model, we have included the loss curve info in the repo as well. Some predictions from the model are shown below.
 
 ```
 True : እንደ ገና ኢትዮጵያዊ ለ መሆን መደራደር የ መረጡ ም አሉ
