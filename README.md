@@ -1,4 +1,5 @@
 # amharic-asr-ipynb
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/bd8f8b0f-a193-4b96-93c0-7be399a512da" />
 
 This repo implements a [DeepSpeech2](https://arxiv.org/pdf/1512.02595)-like speech recognition model and trains it on an [Amharic dataset](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/AMHARIC). This is meant to host the code discussed in this [video](https://youtu.be/qlxv1CBatiw).
 
